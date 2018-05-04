@@ -14,6 +14,7 @@ Master the data type int.
 Master the bool data type.
 
 Homework:
+
 1,
 
 2, 
