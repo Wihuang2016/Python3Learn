@@ -4,9 +4,13 @@ Material for trainning Python
 Day1:
 
 Master the IDE, using Visutal studio code as the IDE.
+
 Master the IDE debug mode, to check the code in the memonry formats.
+
 Master the const and the variable diffrence.
+
 Master the data type int.
+
 Master the bool data type.
 
 Homework:
