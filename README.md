@@ -1,7 +1,22 @@
 # Python3Learn
 Material for trainning Python
 
-Day2: to show the key words being used roles
+Day1:
+
+Master the IDE, using Visutal studio code as the IDE.
+Master the IDE debug mode, to check the code in the memonry formats.
+Master the const and the variable diffrence.
+Master the data type int.
+Master the bool data type.
+
+Homework:
+1,
+
+2, 
+
+Day2: 
+
+Key Words: to show the key words being used roles
 
  Key    Words   RANK     %      ACC
  1      del     not appear      NA
@@ -36,3 +51,9 @@ Day2: to show the key words being used roles
  30     continue 4      0.1%    99.9%
  31     global   4      0.1%    100.0%  
                 3464    100.0% 
+
+Homework:
+1,
+
+2,
+
